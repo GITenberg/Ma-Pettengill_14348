@@ -1,0 +1,30 @@
+_repo: Ma-Pettengill_14348
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Harry Leon
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '1206'
+    url: http://www.gutenberg.org/2009/agents/1206
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
+description: Ma Pettengill and the animal kingdom -- A love story -- Red Gap and the
+  big-league stuff.
+gutenberg_issued: '2004-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (State) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Humorous stories'
+title: Ma Pettengill
+url: http://www.gutenberg.org/ebooks/14348
